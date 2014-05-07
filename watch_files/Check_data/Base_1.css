@@ -1,0 +1,50 @@
+html body{font-family:Arial,Helvetica,sans-serif;font-size:14px;overflow-x:hidden;}h1{font-size:15px;}h2{font-size:14px;}h3{font-size:13px;}.error{color:red;}#changepasswordTable .lableCol{width:120px;}#memberDetailTable .lableCol{width:110px;}#termscondtions{font-weight:bold;}#verificationRow{display:none;}#info{font-size:12px;}#message{color:red;}#btnVerificationCodeResend{display: none;}
+
+#div3CookieChkMainContainer
+{
+    border-radius: 5px 5px;
+    background-color: #f2dede;
+    border-color: #eed3d7;
+    font-family: Arial, Verdana;
+    font-size: 10pt;
+    color: #f53f3f;
+	padding: 8px 8px;
+	margin: 5px 0px;
+    }
+#div3CookieChkMainContainer a
+{
+	text-decoration: none;
+	color: #f53f3f;
+	font-weight: bold;
+    }
+	
+#div3CookieChkSystemCheckContainer
+{
+    border-radius: 5px 5px;
+    background-color: #fcf8e3;
+    border-color: #fbeed5;
+    font-family: Arial, Verdana;
+    font-size: 10pt;
+    color: #cb9853;
+	padding: 8px 8px;
+	margin: 5px 0px;
+    }
+	
+#div3CookieChkSystemCheckContainer a
+{
+    text-decoration: none;
+	color: #cb9853;
+	font-weight: bold;
+    }
+	
+#div3CookieChkSuccessContainer
+{
+    border-radius: 5px 5px;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    font-family: Arial, Verdana;
+    font-size: 10pt;
+    color: #468847;
+	padding: 8px 8px;
+	margin: 5px 0px;
+    }
